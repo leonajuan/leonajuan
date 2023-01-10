@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Leona Juan!
-- 👀 I’m interested in UX/UI and music
+- 👀 I’m interested in beauty and music
 - 🌱 I’m currently learning Python 🐍
 - 💞️ I’m looking to collaborate on fun + innovative full stack applications and UX/UI projects
 - 📫 How to reach me: leonacjuan@gmail.com or [LinkedIn](https://www.linkedin.com/in/leona-cjuan/)
